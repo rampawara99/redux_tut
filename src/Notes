@@ -1,0 +1,9 @@
+1) What is Redux:-
+                👍 A container Where you can store your whole application data.
+                => current User Data and call back API Data etc.,
+                👍 So we call it to "state management"
+                => application cha sarva Data Ak jage var store kele jate
+                👍 It Doesn't belong to the component state
+
+2) Redux Architecher:-
+                Action => Reducer => Store
