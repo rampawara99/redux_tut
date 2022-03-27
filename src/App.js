@@ -1,9 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import HomeContainers from './Redux_tut/containers/HomeContainers';
 
 function App() {
   return (
     <div className="container">
-      <h1 className="mx-5">Hello</h1>
+      <HomeContainers/>
     </div>
   );
 }
